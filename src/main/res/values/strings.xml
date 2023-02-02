@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">自动申请权限：无需用户的任何操作就可以自动申请权限。</string>
+</resources>
